@@ -1,0 +1,4 @@
+Configuracion (1 sola vez en su compu)
+git config --global user.name "Tu nombre"
+git config --global user.email tucorreo@gmail.com
+git config --global --list
